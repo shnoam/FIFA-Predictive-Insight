@@ -5,7 +5,8 @@ The primary objective of this project is to utilize advanced data science techni
 Problem/Motivation:
 In the world of professional football and gaming, accurately assessing and predicting player performance metrics, such as overall ratings and optimal positions, is crucial. Managers, scouts, and enthusiasts rely heavily on these metrics for team selection, player development, and gaming strategies. However, predicting these metrics with high accuracy remains a significant challenge due to the dynamic and multifaceted nature of player performance.
 
-Impact:
+## Impact:
+
 For Football Managers and Scouts:
 Enhanced Decision-Making: Accurate predictions of player ratings and best positions can significantly improve team formation and player recruitment strategies.
 Player Development: Insights into optimal player positions can guide training programs and career development, maximizing player potential and performance.
@@ -15,7 +16,8 @@ Improved Gaming Experience: More accurate player metrics enhance the realism and
 Strategic Advantage: Players can leverage accurate predictions to build stronger teams and improve their gameplay strategies.
 
 
-#Research Tasks:
+## Research Tasks:
+
 Task 1 - Predicting Players' Overall Ratings Using Diverse Attributes:
 Task Goal: Predicting players' overall ratings using their diverse attributes.
 For this task, we explored two different approaches:
@@ -31,7 +33,7 @@ Task Goal: In this task, we aim to classify players into their best playing posi
 Models and Evaluation: We focused on three models: Decision Tree, Random Forest, and XGBoost, evaluating their performance using metrics such as precision, recall, F1-score, and support. 
 We worked to identify which model performs best in predicting player positions and understand the challenges in classifying certain positions. Our approach included generalizing similar positions to balance the dataset.
 
-#Results and Running Times:
+## Results and Running Times:
 Task 1 – Predicting Players' Overall Ratings Using Diverse Attributes – Results:
 
 
@@ -73,7 +75,7 @@ Accuracy: 88%.
 
 
 
-#Conclusions:
+## Conclusions:
 
 
 Task 1 - Predicting Players' Overall Ratings Using Diverse Attributes – Conclusions:
